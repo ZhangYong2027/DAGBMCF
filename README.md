@@ -1,3 +1,3 @@
 # DAGBAL
-The code of the paper "DAGBAL: Distribution-aware granular-ball anchor learning for scalable multi-view clustering".
+The code of the paper "Scalable Multi-view Clustering via Distribution-Aware Granular-Ball Anchors and Mutual-Complementary Fusion".
 
